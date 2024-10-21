@@ -12,3 +12,8 @@ W + B = I (constant)
 El K-means pot fallar més que una escopeta de fira, especialment si els "clusters reals" no tenen una estructura globular. Els profes volen que saltem a hierarchical clustering o altres mètodes directament.
 
 R és molt millor que python per fer clustering amb categorical data. 
+
+Amb el **Big Data** succeirà que les variances disminueixin, degut a la llei dels grans nombres. Succeirà, que els tests estadístics trobaran diferències significatives entre 0.000000000001 i 0.000000000002. Una diferència significativa *espúria*, que probablement no tingui impacte en el real decision making.
+
+
+https://en.wikipedia.org/wiki/Permutation_test
